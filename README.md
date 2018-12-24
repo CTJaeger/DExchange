@@ -6,5 +6,5 @@
 ## Ledger integretation and many other useful features. With the software you can communicate via any, current FullNode.
 ## The project is at an advanced stage and will soon be released for publication. It is free for the community.
 
-![Logo](dex1.png)
+![DEX](dex1.jpg)
 
