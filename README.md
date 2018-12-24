@@ -7,15 +7,15 @@ of the Tron network including reward distribution, airdrops, proposals, voting, 
 Ledger integretation and many other useful features. With the software you can communicate via any, current FullNode.
 The project is at an advanced stage and will soon be released for publication. It is free for the community.
 
-### Version
+### actually work at
+* Distribution / Airdrop Job List
+* Ledger integration
+
+### Versions
 
 ### 1.0.0.53 
 * Add Distribution
 * Fix SR/C Table
-
-### actually work at
-* Distribution / Airdrop Job List
-* Ledger integration
 
 ### 1.0.0.0 initial release
 
