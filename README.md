@@ -54,16 +54,16 @@ The project is at an advanced stage and will soon be released for publication. I
 
 ### 1.0.0.0 initial release
 
-![DEX](/images/dashboard.jpg)
-![DEX](/images/config.jpg)
-![DEX](/images/configurewallet.jpg)
-![DEX](/images/addressbook.jpg)
-![DEX](/images/quicksend.jpg)
-![DEX](/images/quickinfo.jpg)
-![DEX](/images/transactions.jpg)
-![DEX](/images/createwallet.jpg)
-![DEX](/images/proposals.jpg)
-![DEX](/images/distribute.jpg)
-![DEX](/images/createtoken.jpg)
-![DEX](/images/src.jpg)
+![DEX](images/dashboard.jpg)
+![DEX](images/config.jpg)
+![DEX](images/configurewallet.jpg)
+![DEX](images/addressbook.jpg)
+![DEX](images/quicksend.jpg)
+![DEX](images/quickinfo.jpg)
+![DEX](images/transactions.jpg)
+![DEX](images/createwallet.jpg)
+![DEX](images/proposals.jpg)
+![DEX](images/distribute.jpg)
+![DEX](images/createtoken.jpg)
+![DEX](images/src.jpg)
 
