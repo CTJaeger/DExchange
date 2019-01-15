@@ -8,7 +8,6 @@ Ledger integretation and many other useful features. With the software you can c
 The project is at an advanced stage and will soon be released for publication. It is free for the community.
 
 ### actually work at
-* Airdrop Job List
 * Ledger integration
 
 ### Versions
