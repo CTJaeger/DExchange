@@ -1,0 +1,49 @@
+======================
+Fragen und Antworten:
+======================
+
+Dieses Dokument soll alle wiederkehrenden Fragen dokumentieren.
+Ziel ist es, den Einstieg für neue Benutzer zu vereinfachen und erste Schritte zu erleichtern.
+
+Diese Datei wird fortlaufend aktualisiert.
+
+------------------
+Inhaltsverzeichnis:
+------------------
+
+
+
+1. Warum kann ich die Token nicht anklicken?
+2. Warum ist "Stop Loss" nicht anklickbar?
+3. Wie und wo kann ich meine Transaktionen exportieren?
+4. Warum werden mir nur wenige Token aufgelistet?
+5. 
+
+
+---------------------------------------------
+1. Warum kann ich die Token nicht anklicken?
+---------------------------------------------
+Die Dex benötigt ein Minimum an TERC im aktiven Wallet.
+2.500 TERC aktivieren eine Limited Version
+10.000 TERC aktivieren eine Unlimited Version
+
+---------------------------------------------
+2. Warum ist "Stop Loss" nicht anklickbar?
+---------------------------------------------
+Um die "Stop Loss"-Funktion nutzen zu können, muss das Programm als unlimited Version aktiviert werden.
+
+---------------------------------------------
+3. Wie und wo kann ich meine Transaktionen exportieren?
+---------------------------------------------
+Diese Funktion wird zur Zeit eingebaut und wird folgen.
+
+---------------------------------------------
+4. Warum werden mir nur wenige Token aufgelistet?
+---------------------------------------------
+	1. gehe im Menü zu "Config"
+	2. suche die Einstellung "Min. Volume for DEX" und verringe den Wert nach Wunsch
+	3. speichere die Einstellung und wechsle zurück ins Programm
+
+---------------------------------------------
+5.
+---------------------------------------------
