@@ -1,0 +1,48 @@
+======================
+Frequently Asked Questions
+======================
+
+This document is meant to collect all frequently asked questions.
+Target of that file; get new users easier into DExchange application.
+
+This file will be updated continually.
+
+------------------
+TABLE OF CONTENTS:
+------------------
+
+
+1. Why is it not possible to use the buttons?
+2. Why is the "Stop Loss" button not useable?
+3. How and which way can I export my transactions?
+4. Why are there less token listed?
+5. 
+
+
+---------------------------------------------
+1. Why is it not possible to use the buttons?
+---------------------------------------------
+There is a minimum of TERC token needed to activate different level of the DEX.
+2.500 TERC activates Limited Version
+10.000 TERC activates Unlimited Version
+
+---------------------------------------------
+2. Why is the "Stop Loss" button not useable?
+---------------------------------------------
+To use the "Stop Loss", the program need to be activeated as unlimited version.
+
+---------------------------------------------
+3. How and which way can I export my transactions?
+---------------------------------------------
+Will be implemented soon.
+
+---------------------------------------------
+4. Why are there less token listed?
+---------------------------------------------
+	1. go to menue "Config"
+	2. check configuration for "Min. Volume for DEX" and decrease the value
+	3. save the configuration and go back to program
+
+---------------------------------------------
+5.
+---------------------------------------------
